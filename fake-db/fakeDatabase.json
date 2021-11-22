@@ -1,0 +1,20 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "date": "20/11/2021",
+      "todo": "Intro ReactJS",
+      "location": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      "note": "Prepare VSCode, Node js and CRA",
+      "status": "Done"
+    },
+    {
+      "date": "2021-11-02",
+      "todo": "asdsa",
+      "location": "https://images.unsplash.com/photo-1469050624972-f03b8678e363?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "note": "asdadsa",
+      "status": "on going",
+      "id": 2
+    }
+  ]
+}
